@@ -2,4 +2,8 @@
 
 A web application used to benchmark Factorio blueprints.
 
-This is a work in progress. Read application idea [here](/Requirements/ApplicationIdea.md).
+This project is currently in development.
+
+Application idea [here](/Documentation/ApplicationIdea.md).
+
+Project Setup and tech stack [here](/Documentation/ProjectSetup.md).
