@@ -28,4 +28,6 @@
     * make sure `DB_NAME` is a database that exists on the server
     * on the server `DB_HOST` create a user `DB_USER` (its password must be `DB_PASSWORD`) with all grants to the **public** schema of the database `DB_NAME`
     * `cd factorio_benchmark_backend` (this assumes you are in the root dir of the project beforehand)
+    * `python manage.py makemigrations`
+    * `python manage.py migrate`
     * `python manage.py runserver`
